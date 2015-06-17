@@ -1,6 +1,8 @@
 sample-thing
 ===
 
+[![Join the chat at https://gitter.im/kolodny/sample-thing](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/kolodny/sample-thing?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Gitter][gitter-image]][gitter-url]
 [![NPM version][npm-image]][npm-url]
 [![Build status][travis-image]][travis-url]
